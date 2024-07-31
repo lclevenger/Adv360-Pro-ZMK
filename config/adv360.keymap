@@ -49,7 +49,7 @@
 &kp F1  &kp F2     &kp F3     &kp F4    &kp F5    &kp F6     &tog 3                                      &mo 6   &kp LS(F6)  &kp LS(F7)  &kp LS(F8)        &kp F10            &kp F11    &kp F12
 &trans  &trans     &trans     &trans    &trans    &kp LA(T)  &trans                                      &trans  &kp LA(Y)   &trans      &trans            &trans             &kp LA(P)  &trans
 &trans  &kp LSHFT  &kp LCTRL  &kp LALT  &kp LGUI  &kp LA(G)  &trans  &trans  &trans      &trans  &trans  &trans  &kp LEFT    &kp DOWN    &kp UP            &kp RIGHT          &trans     &trans
-&trans  &trans     &kp LA(X)  &trans    &trans    &trans                     &trans      &trans                  &trans      &kp LA(A)   &kp LA(S)         &trans             &trans     &trans
+&trans  &kp LA(Z)  &kp LA(X)  &trans    &trans    &trans                     &trans      &trans                  &trans      &kp LA(A)   &kp LA(S)         &trans             &trans     &trans
 &trans  &trans     &trans     &trans    &trans               &trans  &trans  &trans      &trans  &trans  &trans              &kp LG(W)   &kp LG(LA(LEFT))  &kp LG(LA(RIGHT))  &trans     &trans
             >;
         };
