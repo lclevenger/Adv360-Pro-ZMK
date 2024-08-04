@@ -46,11 +46,11 @@
 
         layer_nav {
             bindings = <
-&kp F1  &kp F2     &kp F3     &kp F4                  &kp F5                   &kp F6     &tog 3                                      &mo 6   &kp LS(F16)  &kp LS(F17)             &kp LS(F18)             &kp F10                  &kp F11    &kp F12
-&trans  &trans     &trans     &trans                  &trans                   &kp LA(T)  &trans                                      &trans  &kp LA(Y)    &kp LA(A)               &kp LA(S)               &trans                   &kp LA(P)  &trans
-&trans  &kp LSHFT  &kp LCTRL  &kp LALT                &kp LGUI                 &kp LA(G)  &trans  &trans  &trans      &trans  &trans  &trans  &kp LEFT     &kp DOWN                &kp UP                  &kp RIGHT                &trans     &kp LG(W)
-&trans  &kp LA(Z)  &kp LA(X)  &trans                  &trans                   &trans                     &trans      &trans                  &trans       &trans                  &kp LG(LA(LEFT_ARROW))  &kp LG(LA(RIGHT_ARROW))  &kp LG(W)  &trans
-&trans  &trans     &trans     &kp LG(LA(LEFT_ARROW))  &kp LG(LA(RIGHT_ARROW))             &trans  &trans  &trans      &trans  &trans  &trans               &kp LG(LA(DOWN_ARROW))  &kp LG(LA(UP_ARROW))    &trans                   &trans     &trans
+&kp F1  &kp F2     &kp F3     &kp F4                  &kp F5                   &kp F6     &tog 3                                                         &mo 6   &kp LS(F7)  &kp LS(F8)              &kp LS(F9)              &kp F10                  &kp F11    &kp F12
+&trans  &trans     &trans     &trans                  &trans                   &kp LA(T)  &trans                                                         &trans  &kp LA(Y)   &kp LA(A)               &kp LA(S)               &trans                   &kp LA(P)  &trans
+&trans  &kp LSHFT  &kp LCTRL  &kp LALT                &kp LGUI                 &kp LA(G)  &trans             &trans          &trans      &trans  &trans  &trans  &kp LEFT    &kp DOWN                &kp UP                  &kp RIGHT                &trans     &kp LG(W)
+&trans  &kp LA(Z)  &kp LA(X)  &trans                  &trans                   &trans                                        &trans      &trans                  &trans      &trans                  &kp LG(LA(LEFT_ARROW))  &kp LG(LA(RIGHT_ARROW))  &trans     &trans
+&trans  &trans     &trans     &kp LG(LA(LEFT_ARROW))  &kp LG(LA(RIGHT_ARROW))             &kp LA(BACKSPACE)  &kp LA(DELETE)  &trans      &trans  &trans  &trans              &kp LG(LA(DOWN_ARROW))  &kp LG(LA(UP_ARROW))    &trans                   &trans     &trans
             >;
         };
 
