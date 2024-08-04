@@ -36,11 +36,11 @@
 
         default_layer {
             bindings = <
-&hm LGUI EQUAL  &kp N1     &kp N2    &kp N3    &kp N4     &kp N5  &tog 3                                                                                           &mo 6          &kp N6  &kp N7    &kp N8     &kp N9      &kp N0               &hm RGUI MINUS
-&hm LALT TAB    &kp Q      &kp W     &kp E     &kp R      &kp T   &mo 4                                                                                            &tog 2         &kp Y   &kp U     &kp I      &kp O       &kp P                &hm RALT BSLH
-&hm LCTRL ESC   &kp A      &kp S     &kp D     &lt 3 F    &kp G   &kp LC(LEFT)   &hm LGUI ESCAPE  &kp LALT            &kp RALT         &hm RGUI ESC                &kp RC(RIGHT)  &kp H   &kp J     &kp K      &kp L       &hm RCTRL SEMICOLON  &hm RCTRL SQT
-&kp LSHFT       &kp Z      &kp X     &kp C     &kp V      &kp B                                   &hm LCTRL HOME      &hm RCTRL PG_UP                                             &kp N   &kp M     &kp COMMA  &kp PERIOD  &kp SLASH            &kp RSHFT
-&kp LALT        &kp GRAVE  &lt 4 F5  &kp LEFT  &kp RIGHT          &kp BACKSPACE  &hm LGUI DELETE  &hm LGUI END        &hm RGUI PG_DN   &hm RS(RA(RC(RGUI))) ENTER  &lt 1 SPACE            &kp DOWN  &kp UP     &kp LBKT    &kp RBKT             &mo 4
+&hm LGUI EQUAL  &kp N1     &kp N2    &kp N3    &kp N4     &kp N5  &tog 3                                                                                             &mo 6          &kp N6  &kp N7    &kp N8     &kp N9      &kp N0               &hm RGUI MINUS
+&hm LALT TAB    &kp Q      &kp W     &kp E     &kp R      &kp T   &mo 4                                                                                              &tog 2         &kp Y   &kp U     &kp I      &kp O       &kp P                &hm RALT BSLH
+&hm LCTRL ESC   &kp A      &kp S     &kp D     &lt 3 F    &kp G   &kp LC(LEFT)   &hm LGUI ESCAPE  &hm LALT HOME         &kp RALT         &hm RGUI ESC                &kp RC(RIGHT)  &kp H   &kp J     &kp K      &kp L       &hm RCTRL SEMICOLON  &hm RCTRL SQT
+&kp LSHFT       &kp Z      &kp X     &kp C     &kp V      &kp B                                   &hm LCTRL DELETE      &hm RCTRL PG_UP                                             &kp N   &kp M     &kp COMMA  &kp PERIOD  &kp SLASH            &kp RSHFT
+&kp LALT        &kp GRAVE  &lt 4 F5  &kp LEFT  &kp RIGHT          &kp BACKSPACE  &kp LGUI         &hm LGUI END          &hm RGUI PG_DN   &hm RS(RA(RC(RGUI))) ENTER  &lt 1 SPACE            &kp DOWN  &kp UP     &kp LBKT    &kp RBKT             &mo 4
             >;
         };
 
